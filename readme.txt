@@ -1,2 +1,2 @@
 hello this is the text editor
-this is another line
+another line is being added
